@@ -4,7 +4,7 @@
 #include <set>
 #include <queue>
 
-#include "scanner.h"
+#include "scanner.hpp"
 
 void err(std::string);
 void sync(std::set<std::string>);

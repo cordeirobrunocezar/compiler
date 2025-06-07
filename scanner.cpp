@@ -4,7 +4,7 @@
 #include <set>
 #include <queue>
 
-#include "scanner.h"
+#include "scanner.hpp"
 
 std::set<std::string> KEYWORDS = {
   "and", "break", "do", "else", "elseif", "end", "false", "for", "function",
